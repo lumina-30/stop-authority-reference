@@ -6,6 +6,9 @@ This material:
 - does not guarantee safety, legality, or ethical adequacy.
 - does not delegate refusal authority to AI systems.
 
+Stop Authority refers only to effective procedural refusal prior to irreversible execution.
+It does not imply technical dominance or continuous system control.
+
 Stop Authority refers to the structural capacity of human institutions
 to retain a final, effective refusal power
 before irreversible autonomous execution.
@@ -20,10 +23,13 @@ Related reference materials:
 - Post-Incident Review Structures
 - Accountability Reference
 
+
+
 Keywords:
 AI accountability
 Irreversible execution
 Institutional oversight
 Refusal authority
 Autonomous systems governance
+
 
