@@ -23,7 +23,14 @@ Related reference materials:
 - Post-Incident Review Structures
 - Accountability Reference
 
+---
 
+### Related References
+
+- Overview  
+  https://github.com/gsx750ss-dev/lumina-30-overview
+
+---
 
 Keywords:
 AI accountability
