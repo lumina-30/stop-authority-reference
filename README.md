@@ -23,6 +23,10 @@ Related reference materials:
 - Post-Incident Review Structures
 - Accountability Reference
 
+Related references:
+- Stop Authority (Reference)
+- Institutional Friction Toolkit
+- Post-Incident Review Structures
 ---
 
 ### Related References
