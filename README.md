@@ -35,6 +35,9 @@ Related references:
   https://github.com/gsx750ss-dev/lumina-30-overview
 
 ---
+Structural context:
+- lumina-30-structure-map
+---
 
 Keywords:
 AI accountability
