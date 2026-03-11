@@ -1,5 +1,5 @@
-## Position within LUMINA-30
-Primary entry point: [Lumi30-Index](https://github.com/gsx750ss-dev/Lumi30-Index)
+﻿## Position within LUMINA-30
+Primary entry point: [Lumi30-Index](https://github.com/lumina-30/Lumi30-Index)
 
 This repository exists within the LUMINA-30 civilizational boundary reference structure.
 
@@ -7,7 +7,7 @@ It is non-binding and descriptive.
 It does not mandate action, propose policy, or prescribe implementation.
 
 Hub (structural map):
-https://github.com/gsx750ss-dev/lumina-30-overview
+https://github.com/lumina-30/lumina-30-overview
 
 —
 
@@ -45,7 +45,7 @@ Related references:
 ### Related References
 
 - Overview  
-  https://github.com/gsx750ss-dev/lumina-30-overview
+  https://github.com/lumina-30/lumina-30-overview
 
 ---
 Structural context:
@@ -58,5 +58,6 @@ Irreversible execution
 Institutional oversight
 Refusal authority
 Autonomous systems governance
+
 
 
