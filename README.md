@@ -1,4 +1,4 @@
-﻿## Position within LUMINA-30
+## Position within LUMINA-30
 Primary entry point: [Lumi30-Index](https://github.com/lumina-30/Lumi30-Index)
 
 This repository exists within the LUMINA-30 civilizational boundary reference structure.
@@ -9,7 +9,7 @@ It does not mandate action, propose policy, or prescribe implementation.
 Hub (structural map):
 https://github.com/lumina-30/lumina-30-overview
 
-—
+---
 
 # Stop Authority (Reference)
 
@@ -31,33 +31,31 @@ It documents structural conditions under which Stop Authority may disappear.
 
 It is descriptive and non-prescriptive.
 
-Related reference materials:
-- Institutional Friction Toolkit
-- Post-Incident Review Structures
-- Accountability Reference
-
-Related references:
-- Stop Authority (Reference)
-- Institutional Friction Toolkit
-- Post-Incident Review Structures
 ---
 
-### Related References
+## Main function / 主機能
 
-- Overview  
-  https://github.com/lumina-30/lumina-30-overview
+This repository fixes the meaning of stop authority as a term anchor within the LUMINA-30 network.
+
+It should be used when readers need a compact definition of:
+- stop authority
+- refusal authority
+- effective procedural refusal
+- pre-irreversibility interruption
+
+このリポジトリは、LUMINA-30ネットワーク内で stop authority の意味を固定する用語アンカーである。
+
+主に次の簡潔定義に使う。
+- stop authority
+- refusal authority
+- 実効的手続的拒否
+- 不可逆化前の中断可能性
 
 ---
-Structural context:
-- lumina-30-structure-map
----
 
-Keywords:
-AI accountability
-Irreversible execution
-Institutional oversight
-Refusal authority
-Autonomous systems governance
+## Position
 
+This repository should remain compact and definition-focused.
+It is a term anchor, not a broad operational repository.
 
-
+Related reference materials should point here for definition consistency.
