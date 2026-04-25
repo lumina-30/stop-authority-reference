@@ -1,13 +1,25 @@
 ## Position within LUMINA-30
-Primary entry point: [Lumi30-Index](https://github.com/lumina-30/Lumi30-Index)
 
-This repository exists within the LUMINA-30 civilizational boundary reference structure.
+Primary users / 主な対象者: incident reviewers, auditors, legal/governance readers, and terminology users.  
+事故レビュー担当、監査担当、法務・ガバナンス担当、用語確認者向け。
 
-It is non-binding and descriptive.
-It does not mandate action, propose policy, or prescribe implementation.
+Use this repository when you need the compact operational meaning of stop authority or refusal authority.  
+stop authority / refusal authority の実務上の意味を簡潔に確認する場合に使用。
 
-Hub (structural map):
-https://github.com/lumina-30/lumina-30-overview
+This repository defines terms; it does not perform the full incident review.  
+このrepoは用語を定義するものであり、事故レビュー全体を実行するものではない。
+
+- [Incident Review Hub / 事故レビュー主ハブ](https://github.com/lumina-30/lumina30-incident-review)  
+  Use this when applying stop authority to a specific incident or boundary check.  
+  具体的な事故・境界判定に stop authority を適用する場合に使用。
+
+- [Institutional Friction Toolkit / 制度摩擦ツールキット](https://github.com/lumina-30/institutional-friction-toolkit)  
+  Use this when stop authority failed through delay, override, or procedural breakdown.  
+  遅延、override、手続崩壊により停止権限が失われた場合に使用。
+
+- [Lumi30-Index / LUMINA-30 索引](https://github.com/lumina-30/Lumi30-Index)  
+  Use this to return to the full repository network.  
+  repo群全体の導線に戻る場合に使用。
 
 ---
 
