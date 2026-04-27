@@ -45,6 +45,19 @@ It is descriptive and non-prescriptive.
 
 ---
 
+
+## External Explanation / 外部説明
+
+Stop authority means the practical ability to interrupt, refuse, suspend, or prevent continuation before irreversible impact.
+
+Stop authority とは、不可逆的影響の前に、継続を中断・拒否・保留・阻止できる実務上の能力を意味する。
+
+Use this repository to clarify the term. Use `lumina30-incident-review` when applying the term to a specific incident or boundary check.
+
+このrepoは用語の明確化に使用する。具体的な事故や境界判定へ適用する場合は `lumina30-incident-review` を使用する。
+
+Without this question, a review may describe responsibility or performance while missing whether a human actor could still meaningfully say “no” before irreversible impact.
+
 ## Main function / 主機能
 
 This repository fixes the meaning of stop authority as a term anchor within the LUMINA-30 network.
@@ -71,3 +84,4 @@ This repository should remain compact and definition-focused.
 It is a term anchor, not a broad operational repository.
 
 Related reference materials should point here for definition consistency.
+
