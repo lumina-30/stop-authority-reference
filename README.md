@@ -1,6 +1,6 @@
 ## Position within LUMINA-30
 
-Primary users / 主な対象者: incident reviewers, auditors, legal/governance readers, and terminology users.  
+Primary users ｜ 主な対象者: incident reviewers, auditors, legal/governance readers, and terminology users.  
 事故レビュー担当、監査担当、法務・ガバナンス担当、用語確認者向け。
 
 Use this repository when you need the compact operational meaning of stop authority or refusal authority.  
@@ -9,15 +9,15 @@ stop authority / refusal authority の実務上の意味を簡潔に確認する
 This repository defines terms; it does not perform the full incident review.  
 このrepoは用語を定義するものであり、事故レビュー全体を実行するものではない。
 
-- [Incident Review Hub / 事故レビュー主ハブ](https://github.com/lumina-30/lumina30-incident-review)  
+- [Incident Review Hub ｜ 事故レビュー入口](https://github.com/lumina-30/lumina30-incident-review)  
   Use this when applying stop authority to a specific incident or boundary check.  
   具体的な事故・境界判定に stop authority を適用する場合に使用。
 
-- [Institutional Friction Toolkit / 制度摩擦ツールキット](https://github.com/lumina-30/institutional-friction-toolkit)  
+- [Institutional Friction Toolkit ｜ 制度摩擦ツールキット](https://github.com/lumina-30/institutional-friction-toolkit)  
   Use this when stop authority failed through delay, override, or procedural breakdown.  
   遅延、override、手続崩壊により停止権限が失われた場合に使用。
 
-- [Lumi30-Index / LUMINA-30 索引](https://github.com/lumina-30/Lumi30-Index)  
+- [Canonical Index ｜ 正典索引](https://github.com/lumina-30/Lumi30-Index)  
   Use this to return to the full repository network.  
   repo群全体の導線に戻る場合に使用。
 
@@ -46,7 +46,7 @@ It is descriptive and non-prescriptive.
 ---
 
 
-## External Explanation / 外部説明
+## External Explanation ｜ 外部説明
 
 Stop authority means the practical ability to interrupt, refuse, suspend, or prevent continuation before irreversible impact.
 
@@ -58,7 +58,7 @@ Use this repository to clarify the term. Use `lumina30-incident-review` when app
 
 Without this question, a review may describe responsibility or performance while missing whether a human actor could still meaningfully say “no” before irreversible impact.
 
-## Main function / 主機能
+## Main Function ｜ 主機能
 
 This repository fixes the meaning of stop authority as a term anchor within the LUMINA-30 network.
 
@@ -84,4 +84,3 @@ This repository should remain compact and definition-focused.
 It is a term anchor, not a broad operational repository.
 
 Related reference materials should point here for definition consistency.
-
