@@ -62,7 +62,7 @@ Without this question, a review may describe responsibility or performance while
 
 This repository fixes the meaning of stop authority as a term anchor within the LUMINA-30 network.
 
-It should be used when readers need a compact definition of:
+It is useful when readers need a compact definition of:
 - stop authority
 - refusal authority
 - effective procedural refusal
@@ -80,7 +80,7 @@ It should be used when readers need a compact definition of:
 
 ## Position
 
-This repository should remain compact and definition-focused.
+This repository is intended to remain compact and definition-focused.
 It is a term anchor, not a broad operational repository.
 
-Related reference materials should point here for definition consistency.
+Related reference materials can point here for definition consistency.
