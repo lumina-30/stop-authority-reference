@@ -95,7 +95,23 @@
     .note { color: var(--muted); font-size: .96rem; }
     footer { border-top: 1px solid var(--line); margin-top: 2rem; padding-top: 1rem; color: var(--muted); }
     [id] { scroll-margin-top: 5rem; }
-  </style>
+  
+
+
+    .place-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: .45em;
+      margin: .45rem 0 1rem;
+      padding: .38rem .72rem;
+      border-radius: 999px;
+      border: 1px solid var(--line, var(--border, currentColor));
+      background: var(--soft, var(--panel, Canvas));
+      color: var(--text, CanvasText);
+      font-weight: 800;
+      font-size: .98rem;
+    }
+</style>
 </head>
 <body>
 <div class="topbar"><div class="topbar-inner">
@@ -110,6 +126,7 @@
   <header class="hero">
     <div class="kicker">Term anchor for effective refusal</div>
     <h1>Stop Authority Reference</h1>
+      <div class="place-badge" aria-label="Current location">🛑 Stop-Authority Gate</div>
     <p class="lead">Compact term anchor for stop authority, refusal authority, effective procedural refusal, and pre-irreversibility interruption.</p>
   </header>
 
